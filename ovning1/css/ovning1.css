@@ -1,0 +1,112 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background: #4b6cb7; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #4b6cb7 , #182848); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #4b6cb7 , #182848); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+header {
+  font-size: 8px;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+.wb {
+  width: 100px;
+  height: 100px;
+  margin-top: 5px;
+  margin-left:50px;
+  border-radius: 50%;
+  display: block;
+  border: solid #2980b9;
+  border-width: 2px;
+}
+.div1 {
+  background: #fff;
+  border-radius: 16px;
+  width: 200px;
+  height: 150px;
+  margin-left: 25%;
+  float: left;
+  margin-top: 70px;
+  margin-bottom: 20px;
+}
+.div2  {
+  height: 150px;
+  width: 400px;
+  border-radius: 16px;
+  background: #fff;
+  float: right;
+  margin-right: 25%;
+  margin-top: 70px;
+  font-size: 13px;
+  font-family: 'Open Sans', sans-serif;
+  padding: 0 2px;
+}
+.div3 {
+  width: 632px;
+  border-radius: 16px;
+  background: #fff;
+  margin-left: 25%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  clear: both;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  padding: 10px;
+}
+.div4 {
+  width: 300px;
+  height: 400px;
+  background: #fff;
+  border-radius: 16px;
+  margin-right: 25%;
+  float: right;
+  font-family: 'Open Sans', sans-serif;
+
+}
+.div5 p {
+  font-size: 13px;
+  margin-top: 2px;
+  margin-left: 2px;
+}
+.div4 p {
+  margin-left: 2px;
+  font-size: 13px;
+  margin-top: 2px;
+}
+.div4 h2 {
+  margin-top: 2px;
+  margin-left: 2px;
+  font-size: 15px;
+  margin-bottom: 0;
+}
+.div5 h2 {
+  font-size: 15px;
+  margin-bottom: 0;
+  margin-top: 2px;
+  margin-left: 2px;
+}
+.div5{
+
+  width: 300px;
+  height: 400px;
+  background: #fff;
+  border-radius: 16px;
+  margin-left: 25%;
+  float: left;
+  font-family: 'Open Sans', sans-serif;
+}
+.pics {
+  margin-left: 10px;
+  margin-top: 10px;
+  height: 160px;
+  width: 280px;
+  border: solid 1px #2980b9;
+  border-radius: 4px;
+}
+.wrapper {
+  width: 1250px;
+  min-height: 1000px;
+  margin: 0 auto;
+}
